@@ -1,0 +1,20 @@
+{
+  "manifest_version": 3,
+  "name": "LinkSnap",
+  "version": "1.0",
+  
+  "action" : {
+    "default_popup" : "index.html",
+    "default_icon" : "icon.png"
+    
+  },
+  
+  "description": "Helps to organaize and track leads by providing more manageable way to save links of profiles or current tab.",
+  "author" : "https://www.linkedin.com/in/amir-saudagar-3953b9240", 
+  "version_name": "1.0 beta",
+  
+  "permissions" : [
+      "tabs"
+    ]
+}
+  
